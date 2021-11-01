@@ -1,7 +1,7 @@
 # Waggle-Project
 Developed an interactive Power BI report that tells the story of how the Lapcat data compares to findings from the dog collar Lapdog devices.
 
-Waggle is a startup that makes smart devices for pets. Recently, Waggle has been thrilled by the success of their new Lapdog device, a fitness collar that lets owner track their dog's steps, alterts them when it's time for a walk, and even repels fleas! Reviews have been fantastic, sales are growing, and-best of all-the product really works!
+Waggle is a startup that makes smart devices for pets. Recently, Waggle has been thrilled by the success of their new Lapdog device, **a fitness collar that lets owner track their dog's steps, alterts them when it's time for a walk, and even repels fleas!** Reviews have been fantastic, sales are growing, and-best of all-the product really works!
 
 ![Waggle Image](https://github.com/HannahWorld/Waggle-Project/blob/main/Waggle%20-%20Image.JPG)
 ---
